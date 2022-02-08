@@ -1,3 +1,4 @@
+[![CAPI-LB](https://capi.surisoft.io/capi.svg)]
 ## CAPI LB for Consul
 
 [![CAPI-LB](https://github.com/surisoft-io/capi-consul-lb/actions/workflows/main.yml/badge.svg)](https://github.com/surisoft-io/capi-consul-lb/actions/workflows/main.yml)
